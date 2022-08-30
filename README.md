@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Tinelli</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 
-- 🌱 I’m currently learning **Web Development and UX/UI Design**
+- 🌱 I’m currently learning **JavaScript** on **CoderHouse**. I've also studied **Web Develovpment**, **Photoshop - Adobe illustrator** and a bit of **UX/UI Design** in CoderHouse too.
 
 - 📫 How to reach me **ignatinelli@gmail.com**
 
